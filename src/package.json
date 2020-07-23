@@ -7,6 +7,9 @@
   },
   "author": "",
   "license": "ISC",
+  "brovserslist": [
+    ">1%"
+  ],
   "devDependencies": {
     "json-server": "^0.16.1",
     "webpack-cli": "^3.3.12"
